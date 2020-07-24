@@ -33,6 +33,8 @@ Please execute all the command lines in sentiment_analysis_RNN_from_twits.ipynb,
 
 # Experiment results
 
+The best accuracy is _73.3%_, when implementing the better options in the follwoing experiements.
+
 1. Regarding preprocessing
   * Keeping stopwords performs better than removing them.
   * Lemmatizing to current tone performs better.
@@ -45,5 +47,3 @@ Please execute all the command lines in sentiment_analysis_RNN_from_twits.ipynb,
   * batch normalization leads to no performance difference.
   * Uni-directional RNN with 2 layers performs better than Bi-directional RNN with 2 layers.
 
-6. 
-7. 
