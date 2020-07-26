@@ -9,7 +9,9 @@ This project contains
     2) Using Bagging-classifier with the ratio of max_samples
     3) Building an ensemble of non-overlapping trees
     
-  3. Evaluating each model with Sharpe ratio (mean/stdv.) and factor rank autocorrelation.
+  3. Showing the importance of features (interpretable machine learning)
+    
+  4. Evaluating each model with Sharpe ratio (mean/stdv.) and factor rank autocorrelation.
     
    
  
